@@ -12,10 +12,10 @@
 - 🎓 **B.Tech AI & Data Science** @ Kamaraj College of Engineering & Technology, Virudhunagar (2024–2028)
 - 🏫 Affiliated with **Anna University** | CGPA: **7.67**
 - 🔭 Currently building: **RAG-Based AI Chatbot** & **Smart Attendance System**
-- 🌱 Learning: **Spring Boot**, **LangChain**, **Deep Learning**
+- 🌱 Learning: **DSA Algorithms**, **Machine Leaning**, **Deep Learning**
 - 💼 Looking for: **Software Developer Internship (2025–2026)**
-- 🏆 Achievements: Symposium Winner | Project Expo Winner
-- 📍 Virudhunagar, Tamil Nadu, India
+- 🏆 Achievements: Symposium Winner | Project Expo Winner 
+- 📍 Madurai, Tamil Nadu, India
 
 ---
 
