@@ -50,7 +50,7 @@
 ### 📜 Certifications
 
 - ☕ **Java Programming** — Infosys Springboard
-- ☁️ **Azure AI Fundamentals (AI-900)** — Microsoft
+- ☁️ **Azure AI Fundamentals (AI-900)** — Infosys Springboard
 - 🔐 **Cybersecurity Essentials** — Cisco
 
 ---
