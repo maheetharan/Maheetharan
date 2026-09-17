@@ -44,7 +44,6 @@
 | 🎨 [Gesture Control Virtual Drawing System](https://github.com/maheetharan/Gesture_control_virtual_drawing_system) | Draw in the air using hand gestures — no mouse needed | Python, OpenCV, MediaPipe |
 | 📅 [College Event Manager](https://github.com/maheetharan/College-Event-Manager) | Android app for managing college events with admin/student roles, CRUD & RSVP | Android, Java, SQLite |
 | 🤖 Nexus AI Voice Assistant *(coming soon)* | Voice-controlled AI assistant with web search & app control | Python, Groq API, LLaMA 3 |
-| 🎬 Movie Recommendation Engine *(in progress)* | Content-based movie recommender with Streamlit UI | Python, TF-IDF, Cosine Similarity |
 
 ---
 
